@@ -3,7 +3,7 @@
 	Question2Answer by Gideon Greenspan and contributors
 	http://www.question2answer.org/
 
-	File: qa-plugin/mouseover-layer/qa-mouseover-layer.php
+	File: qa-plugin/selection-search/qa-selection-search-layer.php
 	Description: Theme layer class for mouseover layer plugin
 
 
@@ -50,7 +50,7 @@ class qa_html_theme_layer extends qa_html_theme_base
 	
 	public function body_suffix()
 	{
-		$this->output('<div id="searchpopup">Tra từ / 検索</div>');
+		$this->output('<div id="searchpopup">search</div>');
 		parent::body_suffix();
 	}
 }
