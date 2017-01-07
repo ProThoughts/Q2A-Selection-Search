@@ -3,8 +3,8 @@
 	"description": "Search inside page for the selected text",
 	"version": "1.0.1",
 	"date": "2017-01-04",
-	"author": "Phu",
-	"author_uri": "http://kiwidic.com",
+	"author": "ProfessorX2",
+	"author_uri": "https://github.com/ProfessorX2/Q2A-Selection-Search",
 	"license": "GPLv2",
 	"min_q2a": "1.5"
 }
